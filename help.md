@@ -1,2 +1,2 @@
 ## Hyperion.ai Support
-If you have any questions or need help using the app, you can email support@hyperionindustries.io for support.
+If you have any questions or need help using the app, you can email <a href="mailto:support@hyperionindustries.io">support@hyperionindustries.io</a> for support.
