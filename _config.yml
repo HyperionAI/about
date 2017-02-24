@@ -1,2 +1,4 @@
 name: Hyperion.ai
 markdown: kramdown
+sass:
+  sass_dir: assets/css
